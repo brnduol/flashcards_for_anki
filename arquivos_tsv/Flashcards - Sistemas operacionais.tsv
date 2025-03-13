@@ -1,0 +1,25 @@
+#separator:Tab				
+#html:true				
+#notetype column:1				
+#deck column:2				
+#tags column:5				
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Quais requisitos para instalar o Windows 10?	Os requisitos incluem processador de 1 GHz, 2 GB de RAM (64 bits), 20 GB de armazenamento e DirectX 9 com driver WDDM 1.0.	Windows, Requisitos, Instalação
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Qual comando do Windows é usado para abrir o Prompt de Comando?	O comando `cmd` abre o Prompt de Comando no Windows.	Windows, Prompt de Comando, CMD
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Como você pode abrir o Gerenciador de Tarefas no Windows?	Você pode abrir o Gerenciador de Tarefas pressionando `Ctrl + Shift + Esc`.	Windows, Atalhos, Gerenciador de Tarefas
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Qual atalho de teclado é utilizado para copiar itens selecionados no Windows?	O atalho `Ctrl + C` é usado para copiar itens selecionados.	Windows, Atalhos, Copiar
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Qual comando do Windows é usado para criar um novo diretório?	O comando `mkdir` é usado para criar um novo diretório no Windows.	Windows, Diretórios, Comandos
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Como você pode fechar uma janela ativa no Windows?	Você pode fechar uma janela ativa pressionando `Alt + F4`.	Windows, Atalhos, Fechar Janela
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Qual atalho de teclado é utilizado para colar itens da área de transferência no Windows?	O atalho `Ctrl + V` é usado para colar itens.	Windows, Atalhos, Colar
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Como você pode abrir o Menu Iniciar no Windows?	Você pode abrir o Menu Iniciar pressionando a tecla `Windows`.	Windows, Atalhos, Menu Iniciar
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Qual comando do Windows é usado para exibir o endereço IP do computador?	O comando `ipconfig` exibe informações sobre a configuração de rede do sistema, incluindo o endereço IP.	Windows, Redes, IPConfig
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Como você pode alternar entre janelas abertas no Windows?	O atalho `Alt + Tab` permite alternar entre janelas abertas.	Windows, Atalhos, Alternar Janelas
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Qual atalho de teclado é utilizado para salvar um documento no Windows?	O atalho `Ctrl + S` é usado para salvar documentos.	Windows, Atalhos, Salvar
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Qual comando do Windows é usado para listar arquivos e diretórios em um diretório específico?	O comando `dir` lista arquivos e diretórios no Windows.	Windows, Diretórios, Comandos
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Como você pode abrir o Painel de Controle no Windows?	Você pode abrir o Painel de Controle digitando `control` no Executar (`Win + R`).	Windows, Painel de Controle, Configurações
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Qual atalho de teclado é utilizado para desfazer uma ação no Windows?	O atalho `Ctrl + Z` desfaz a última ação realizada.	Windows, Atalhos, Desfazer
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Como você pode abrir a Janela de Execução no Windows?	Você pode abrir a Janela de Execução pressionando `Win + R`.	Windows, Atalhos, Executar
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Qual comando do Windows é usado para fechar um processo em execução?	O comando `taskkill` é usado para encerrar um processo em execução no Windows.	Windows, Processos, Taskkill
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Como você pode alternar para a área de trabalho no Windows?	O atalho `Win + D` minimiza todas as janelas e exibe a área de trabalho.	Windows, Atalhos, Área de Trabalho
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Qual atalho de teclado é utilizado para abrir o Windows Explorer?	O atalho `Win + E` é usado para abrir o Windows Explorer.	Windows, Atalhos, Explorer
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Como você pode abrir o Centro de Ação no Windows?	Você pode abrir o Centro de Ação pressionando `Win + A`.	Windows, Atalhos, Centro de Ação
+Básico	Ciência da Computação::Sistemas operacionais::Windows	Qual comando do Windows é usado para verificar a conectividade de rede com um host remoto?	O comando `ping` é usado para testar a conectividade de rede com um host remoto.	Windows, Redes, Ping

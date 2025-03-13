@@ -1,0 +1,6 @@
+#separator:Tab				
+#html:true				
+#notetype column:1				
+#deck column:2				
+#tags column:5				
+Básico	Ciência da Computação::Desenvolvimento Web	O que é HOOKS?	Hooks são funções introduzidas no React 16.8 que permitem o uso de estado e outros recursos do React sem escrever uma classe.	React, Hooks, Desenvolvimento Web

@@ -34,9 +34,9 @@ Há duas formas principais de editar os arquivos. Você pode escolher a que melh
 
 ### Método 2: Notepad++ (Recomendado)
 
-O Notepad++ não é um editor de planilhas, mas pode ser usado para editar os arquivos TSV como se fossem arquivos de texto. Para facilitar a visualização das colunas, recomenda-se o uso do plugin **CSV Lint**.
+O Notepad++ não é um editor de planilhas, mas pode ser usado para editar os arquivos TSV como se fossem arquivos de texto. Para facilitar a visualização das colunas, recomenda-se o uso do plugin [**CSV Lint**](https://github.com/BdR76/CSVLint/).
 
-![Exemplo de visualização no Notepad++](\fonte_dos_flashcards\00\exemplo1.png) <!-- Adicionar link da imagem caso disponível -->
+![Exemplo de visualização no Notepad++](fonte_dos_flashcards/00/exemplo1.png) <!-- Adicionar link da imagem caso disponível -->
 
 Após adicionar novas linhas ao final do arquivo, basta salvar.
 

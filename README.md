@@ -6,7 +6,7 @@ Este projeto visa criar um repositório colaborativo com diversos flashcards par
 
 O projeto possui duas pastas principais:
 
-### 1. `arquivos_tsv`
+### 1. `flashcards_tsv`
 Essa pasta contém todos os arquivos de flashcards, organizados por matéria. Dentro de cada subpasta, os decks são armazenados separadamente. Por exemplo, para a matéria **Ciência da Computação**, há uma pasta correspondente que contém todos os decks sobre esse assunto. Cada arquivo representa um deck diferente.
 
 Todos os arquivos possuem um cabeçalho configurado da seguinte forma:
@@ -21,8 +21,8 @@ Todos os arquivos possuem um cabeçalho configurado da seguinte forma:
 
 Esse cabeçalho define algumas configurações para que o Anki saiba interpretar corretamente o arquivo. Como o separador é **Tab**, os arquivos são salvos no formato **TSV** para evitar problemas de compatibilidade.
 
-### 2. `fonte_dos_flashcards`
-Essa pasta serve para armazenar as fontes utilizadas na criação dos decks, como imagens de livros, sites e outros materiais de referência. Não é necessário colocar tudo na íntegra, apenas o suficiente para manter a organização e possibilitar a citação de imagens nos decks.
+### 2. `arquivos`
+Essa pasta serve para armazenar os arquivos, caso algum flashcard contenha fotos, por exemplo.
 
 ## Como Colaborar?
 
@@ -36,7 +36,7 @@ Há duas formas principais de editar os arquivos. Você pode escolher a que melh
 
 O Notepad++ não é um editor de planilhas, mas pode ser usado para editar os arquivos TSV como se fossem arquivos de texto. Para facilitar a visualização das colunas, recomenda-se o uso do plugin [**CSV Lint**](https://github.com/BdR76/CSVLint/).
 
-![Exemplo de visualização no Notepad++](fonte_dos_flashcards/00/exemplo1.png) <!-- Adicionar link da imagem caso disponível -->
+![Exemplo de visualização no Notepad++](arquivos/00/exemplo1.png) <!-- Adicionar link da imagem caso disponível -->
 
 Após adicionar novas linhas ao final do arquivo, basta salvar.
 
